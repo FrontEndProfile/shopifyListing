@@ -1,0 +1,27 @@
+{
+  "name": "shopifylisting",
+  "version": "1.0.0",
+  "description": "TailWind CSS , html , Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontEndProfile/shopifyListing.git"
+  },
+  "keywords": [
+    "Figma",
+    "into",
+    "Tailwindcss"
+  ],
+  "author": "Front-end-Profile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrontEndProfile/shopifyListing/issues"
+  },
+  "homepage": "https://github.com/FrontEndProfile/shopifyListing#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
